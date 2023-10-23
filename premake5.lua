@@ -15,8 +15,7 @@ project "Serializer"
 		"include/**.h"
 	}
 
-	defines
-	{
+	defines{
 		"YAML_CPP_STATIC_DEFINE"
 	}
 
